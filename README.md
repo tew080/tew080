@@ -1,9 +1,9 @@
 <h1 align = "center">สวัสดีครับ ผมชื่อ ทิว</h1>
 
- <h3 align="left">เครื่องมือ & เทคโนโลยีที่ชอบ:</h3>
+ <h3 align="left">เครื่องมือ & เทคโนโลยีที่ชอบ :</h3>
  <p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+    <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
+     <img src="https://commons.wikimedia.org/wiki/File:PhpMyAdmin_logo_2010_hidef.svg" alt="phpMyAdmin" width="40" height="40" />
    </a>
    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
