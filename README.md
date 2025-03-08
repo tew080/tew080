@@ -1,6 +1,5 @@
 <h1 align = "center">สวัสดีครับ ผมชื่อ ทิว</h1>
  <h3 align="center">📚 เครื่องมือ & เทคโนโลยีที่ชอบ 🛠️</h3>
-
  <div align="center">
     <h4>ภาษาเขียนโปรแกรม :</h4>
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="31" alt="html5 logo"  />
@@ -25,6 +24,7 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%234479A1" height="31" alt="mysql logo"  />
  </div>
 <br>
+<div
 <h4>FackBook</h4>
    <a href="https://www.facebook.com/tharmmarat.kaeorung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fackbook" width="40" height="40" />
    </a>
@@ -32,8 +32,9 @@
    <a href="https://www.instagram.com/tharmmaratkaewrung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40" />
    </a>
 <h4>Instagram</h4>
-   <a href="https://www.instagram.com/tharmmaratkaewrung/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40" />
+   <a href="https://t.me/TEWtew404" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40" />
    </a>
+/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tew080&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 
