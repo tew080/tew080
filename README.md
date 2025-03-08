@@ -7,18 +7,7 @@
     <img width="12" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="31" alt="css3 logo"  />
     <img width="12" />
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="31" alt="github logo"  />
-
-
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-   </a>
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-   </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-   </a>
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%233776AB" height="31" alt="python logo"  />
     <h4>ระบบปฏิบัติการ :</h4>
     <img src="https://img.shields.io/badge/windows-80B3FF?style=for-the-badge&logo=windows&logoColor=white&logoSize=auto&labelColor=%2380B3FF" height="31" alt="windows logo"  />    
     <img width="12" />
@@ -28,12 +17,12 @@
     <img width="12" />
     <img src="https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto&labelColor=%231793D1" height="31" alt="arch logo"  />
     <h4>เครื่องมือ :</h4>
-    <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
-     <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="phpMyAdmin" width="40" height="40" />
-   </a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-   </a>
+    <img width="12" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="31" alt="github logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&logoSize=auto&labelColor=%236C78AF" height="31" alt="phpMyAdmin logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%234479A1" height="31" alt="mysql logo"  />
  </div>
  
 <div align="center">
