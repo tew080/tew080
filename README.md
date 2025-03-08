@@ -8,11 +8,8 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="31" alt="css3 logo"  />
     <img width="12" />
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="31" alt="github logo"  />
-    <img width="12" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto" height="31" alt="ubuntu logo"  />
-    <img width="12" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto" height="31" alt="ubuntu logo"  />
-    
+
+
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
    </a>
@@ -23,18 +20,13 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
    </a>
     <h4>ระบบปฏิบัติการ :</h4>
-   <a href="https://www.microsoft.com/th-th/windows/?r=1" target="_blank" rel="noreferrer">
-     <img src="https://www.csn.edu/sites/default/files/image/0021/209703/Windows-11-Icon.jpg" alt="windows" width="40" height="40" />
-   </a>    
-   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="ubuntu linux" width="40" height="40" />
-   </a>
-   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-     <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="arch linux" width="40" height="40" />
-   </a>
-   <a href="https://www.kali.org" target="_blank" rel="noreferrer">
-     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali linux" width="40" height="40" />
-   </a>
+    <img src="https://img.shields.io/badge/windows-80B3FF?style=for-the-badge&logo=windows&logoColor=white&logoSize=auto&labelColor=%2380B3FF" height="31" alt="windows logo"  />    
+    <img width="12" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto" height="31" alt="ubuntu logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto&labelColor=%23557C94" height="31" alt="kali logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto&labelColor=%231793D1" height="31" alt="arch logo"  />
     <h4>เครื่องมือ :</h4>
     <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
      <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="phpMyAdmin" width="40" height="40" />
