@@ -23,6 +23,9 @@
     <img width="12" />
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%234479A1" height="31" alt="mysql logo"  />
  </div>
+
+
+ 
 <div align="center">
 <h4>👥 Social 👥</h4>
    <a href="https://www.facebook.com/tharmmarat.kaeorung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fackbook" width="40" height="40" />
@@ -36,7 +39,9 @@
    <a href="https://www.pling.com/u/tew080" target="_blank" rel="noreferrer"><img src="https://www.pling.com/theme/react/assets/img/logo-pling.png" alt="pling" width="40" height="40" />
    </a>
 </div>
----
+
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tew080&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 
