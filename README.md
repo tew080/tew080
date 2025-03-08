@@ -1,4 +1,4 @@
-<h1 align = "center">สวัสดีครับ ผมชื่อ ทิว</h1>
+<h1 align = "center">☀️ สวัสดีครับ ผม ทิว ☀️</h1>
  <h3 align="center">📚 เครื่องมือ & เทคโนโลยีที่ชอบ 🛠️</h3>
  <div align="center">
     <h4>💻 ภาษาเขียนโปรแกรม 💻</h4>
@@ -36,7 +36,7 @@
    <a href="https://www.pling.com/u/tew080" target="_blank" rel="noreferrer"><img src="https://www.pling.com/theme/react/assets/img/logo-pling.png" alt="pling" width="40" height="40" />
    </a>
 </div>
-<br>
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tew080&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 
