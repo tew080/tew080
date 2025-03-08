@@ -3,7 +3,7 @@
  <h3 align="left">เครื่องมือ & เทคโนโลยีที่ชอบ :</h3>
  <p align="left">
     <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
-     <img src="https://commons.wikimedia.org/wiki/File:PhpMyAdmin_logo_2010_hidef.svg" alt="phpMyAdmin" width="40" height="40" />
+     <img src="https://www.phpmyadmin.net/static/images/logo.png" alt="phpMyAdmin" width="40" height="40" />
    </a>
    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
