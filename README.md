@@ -22,8 +22,8 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
    </a>
 
-   <a href="https://www.kali.org/features/" target="_blank" rel="noreferrer">
-     <img src="https://images.seeklogo.com/logo-png/28/1/kali-linux-logo-png_seeklogo-285900.png" alt="kali linux" width="40" height="40" />
+   <a href="https://www.kali.org" target="_blank" rel="noreferrer">
+     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali linux" width="40" height="40" />
    </a>
 
    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
