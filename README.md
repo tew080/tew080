@@ -3,6 +3,8 @@
 
  <div align="center">
     <h4>ภาษาเขียนโปรแกรม :</h4>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="31" alt="html5 logo"  />
+    
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
    </a>
@@ -11,7 +13,8 @@
    </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-   </a><h4>ระบบปฏิบัติการ :</h4>
+   </a>
+    <h4>ระบบปฏิบัติการ :</h4>
    <a href="https://www.microsoft.com/th-th/windows/?r=1" target="_blank" rel="noreferrer">
      <img src="https://www.csn.edu/sites/default/files/image/0021/209703/Windows-11-Icon.jpg" alt="windows" width="40" height="40" />
    </a>    
