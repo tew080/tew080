@@ -1,13 +1,13 @@
 <h1 align = "center">สวัสดีครับ ผมชื่อ ทิว</h1>
  <h3 align="center">📚 เครื่องมือ & เทคโนโลยีที่ชอบ 🛠️</h3>
  <div align="center">
-    <h4>ภาษาเขียนโปรแกรม :</h4>
+    <h4>💻 ภาษาเขียนโปรแกรม 💻</h4>
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="31" alt="html5 logo"  />
     <img width="12" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="31" alt="css3 logo"  />
     <img width="12" />
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%233776AB" height="31" alt="python logo"  />
-    <h4>ระบบปฏิบัติการ :</h4>
+    <h4>🖥️ ระบบปฏิบัติการ 🖥️</h4>
     <img src="https://img.shields.io/badge/windows-80B3FF?style=for-the-badge&logo=windows&logoColor=white&logoSize=auto&labelColor=%2380B3FF" height="31" alt="windows logo"  />    
     <img width="12" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto" height="31" alt="ubuntu logo"  />
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto&labelColor=%23557C94" height="31" alt="kali logo"  />
     <img width="12" />
     <img src="https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto&labelColor=%231793D1" height="31" alt="arch logo"  />
-    <h4>เครื่องมือ :</h4>
+    <h4>🧰 เครื่องมือ 🧰</h4>
     <img width="12" />
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="31" alt="github logo"  />
     <img width="12" />
@@ -25,12 +25,14 @@
  </div>
 <br>
 <div align="center">
-<h4>Social</h4>
+<h4>👥 Social 👥</h4>
    <a href="https://www.facebook.com/tharmmarat.kaeorung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fackbook" width="40" height="40" />
+   </a>
    <a href="https://www.instagram.com/tharmmaratkaewrung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40" />
+   </a>
    <a href="https://t.me/TEWtew404" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40" />
    </a>
-   </a>
+   <a href="https://www.tiktok.com/@jfvhyfg" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tiktok_icon.svg" alt="tiktok" width="40" height="40" />
    </a>
 </div>
 <div align="center">
