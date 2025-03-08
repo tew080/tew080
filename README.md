@@ -18,13 +18,11 @@
  </p>
 
   <p align="left">
-    <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
-     <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="phpMyAdmin" width="40" height="40" />
-   </a>
+    <h4>ระบบปฏิบัติการ :</h4>
 
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-   </a>
+   <a href="https://www.microsoft.com/th-th/windows/?r=1" target="_blank" rel="noreferrer">
+     <img src="https://logos.fandom.com/wiki/File:Windows_11.svg" alt="windows" width="40" height="40" />
+   </a>    
 
    <a href="https://www.kali.org" target="_blank" rel="noreferrer">
      <img src="https://www.kali.org/images/kali-logo.svg" alt="kali linux" width="40" height="40" />
@@ -32,6 +30,19 @@
 
    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="ubuntu linux" width="40" height="40" />
+   </a>
+
+ </p>
+
+
+
+  <p align="left">
+    <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
+     <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="phpMyAdmin" width="40" height="40" />
+   </a>
+
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
    </a>
 
    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
