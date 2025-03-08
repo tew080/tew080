@@ -24,12 +24,16 @@
      <img src="https://www.csn.edu/sites/default/files/image/0021/209703/Windows-11-Icon.jpg" alt="windows" width="40" height="40" />
    </a>    
 
-   <a href="https://www.kali.org" target="_blank" rel="noreferrer">
-     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali linux" width="40" height="40" />
-   </a>
-
    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="ubuntu linux" width="40" height="40" />
+   </a>
+
+   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+     <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" alt="arch linux" width="40" height="40" />
+   </a>
+
+   <a href="https://www.kali.org" target="_blank" rel="noreferrer">
+     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali linux" width="40" height="40" />
    </a>
 
  </p>
