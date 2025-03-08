@@ -3,7 +3,7 @@
  <h3 align="left">เครื่องมือ & เทคโนโลยีที่ชอบ :</h3>
  <p align="left">
     <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
-     <img src="https://www.phpmyadmin.net/static/images/logo.png" alt="phpMyAdmin" width="40" height="40" />
+     <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="phpMyAdmin" width="40" height="40" />
    </a>
 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
