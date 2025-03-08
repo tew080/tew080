@@ -21,7 +21,7 @@
     <h4>ระบบปฏิบัติการ :</h4>
 
    <a href="https://www.microsoft.com/th-th/windows/?r=1" target="_blank" rel="noreferrer">
-     <img src="https://commons.wikimedia.org/wiki/File:Windows_logo_-_2021.svg" alt="windows" width="40" height="40" />
+     <img src="https://images.seeklogo.com/logo-png/40/1/windows-11-icon-logo-png_seeklogo-406208.png" alt="windows" width="40" height="40" />
    </a>    
 
    <a href="https://www.kali.org" target="_blank" rel="noreferrer">
