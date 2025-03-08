@@ -33,6 +33,8 @@
    </a>
    <a href="https://www.tiktok.com/@jfvhyfg" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tiktok_icon.svg" alt="tiktok" width="40" height="40" />
    </a>
+   <a href="https://www.pling.com/u/tew080" target="_blank" rel="noreferrer"><img src="https://www.pling.com/theme/react/assets/img/logo-pling.png" alt="pling" width="40" height="40" />
+   </a>
 </div>
 <br>
 <div align="center">
