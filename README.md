@@ -9,8 +9,10 @@
     <img width="12" />
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="31" alt="github logo"  />
     <img width="12" />
-    <img src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=ubuntu&logoColor=white" height="31" alt="ubuntu logo"  />
-
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto" height="31" alt="ubuntu logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto" height="31" alt="ubuntu logo"  />
+    
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
    </a>
