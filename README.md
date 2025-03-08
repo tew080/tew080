@@ -11,8 +11,7 @@
    </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-   </a>
-    <h4>ระบบปฏิบัติการ :</h4>
+   </a><h4>ระบบปฏิบัติการ :</h4>
    <a href="https://www.microsoft.com/th-th/windows/?r=1" target="_blank" rel="noreferrer">
      <img src="https://www.csn.edu/sites/default/files/image/0021/209703/Windows-11-Icon.jpg" alt="windows" width="40" height="40" />
    </a>    
