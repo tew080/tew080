@@ -26,7 +26,13 @@
  </div>
 <br>
 <h4>FackBook</h4>
-   <a href="https://www.facebook.com/tharmmarat.kaeorung/" target="_blank" rel="noreferrer"><img src="https://freepnglogo.com/images/all_img/1730342312_facebook-logo-2024.png" alt="fackbook" width="40" height="40" />
+   <a href="https://www.facebook.com/tharmmarat.kaeorung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fackbook" width="40" height="40" />
+   </a>
+<h4>Instagram</h4>
+   <a href="https://www.instagram.com/tharmmaratkaewrung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40" />
+   </a>
+<h4>Instagram</h4>
+   <a href="https://www.instagram.com/tharmmaratkaewrung/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40" />
    </a>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tew080&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
