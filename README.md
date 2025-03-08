@@ -27,12 +27,10 @@
 <div>
 <h4>FackBook</h4>
    <a href="https://www.facebook.com/tharmmarat.kaeorung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fackbook" width="40" height="40" />
-   </a>
-<h4>Instagram</h4>
    <a href="https://www.instagram.com/tharmmaratkaewrung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40" />
-   </a>
-<h4>Instagram</h4>
    <a href="https://t.me/TEWtew404" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40" />
+   </a>
+   </a>
    </a>
 </div>
 <div align="center">
