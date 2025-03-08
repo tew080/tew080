@@ -23,9 +23,6 @@
     <img width="12" />
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%234479A1" height="31" alt="mysql logo"  />
  </div>
-
-
- 
 <div align="center">
 <h4>👥 Social 👥</h4>
    <a href="https://www.facebook.com/tharmmarat.kaeorung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fackbook" width="40" height="40" />
@@ -39,16 +36,11 @@
    <a href="https://www.pling.com/u/tew080" target="_blank" rel="noreferrer"><img src="https://www.pling.com/theme/react/assets/img/logo-pling.png" alt="pling" width="40" height="40" />
    </a>
 </div>
-
-
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tew080&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tew080&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
   <img src="https://streak-stats.demolab.com?user=tew080&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tew080&theme=dracula" alt="tew080" />
   </a>
