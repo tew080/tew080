@@ -41,6 +41,8 @@
  
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tew080&layout=compact&hide_title=true&langs_count=10)
 
+  <img src="https://github-readme-stats.vercel.app/api?username=tew080&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
   <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy">
      <img src="https://github-profile-trophy.vercel.app/?username=tew080" alt="tew080" />
