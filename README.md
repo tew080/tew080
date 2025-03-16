@@ -1,5 +1,6 @@
 <h1 align = "center">☀️ สวัสดีครับ ผม ทิว ☀️</h1>
  <h3 align="center">📚 เครื่องมือ & เทคโนโลยีที่ชอบ 🛠️</h3>
+ <hr>
  <div align="center">
     <h4>💻 ภาษาเขียนโปรแกรม 💻</h4>
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="31" alt="html5 logo"  />
