@@ -1,79 +1,47 @@
-<!-- Header -->
-<h1 align="center">☀️ สวัสดีครับ ผม <span style="color:#4CAF50">ทิว</span> ☀️</h1>
-<h3 align="center">🚀 Android • Performance • Open Source • Linux</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tew080&label=Profile%20Views&color=4CAF50&style=flat" />
-  <img src="https://img.shields.io/github/followers/tew080?label=Followers&style=flat&color=4CAF50" />
-</p>
-
----
-
-## 🧠 เกี่ยวกับผม
-- 💻 สนใจ **Android Performance Optimization**
-- ⚙️ ปรับแต่ง **Kernel / Governor / Device Tree**
-- 🐧 สาย Linux, Open Source
-- 📱 ชอบทำระบบให้ **แรง ลื่น ประหยัดพลังงาน**
-
----
-
-## 💻 ภาษาเขียนโปรแกรม
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
-## 🖥️ ระบบปฏิบัติการ
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-80B3FF?logo=windows&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
-## 🧰 เครื่องมือที่ใช้
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tew080&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tew080&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## 👥 Social
-<p align="center">
-  <a href="https://www.facebook.com/tharmmarat.kaeorung/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+<h1 align = "center">☀️ สวัสดีครับ ผม ทิว ☀️</h1>
+ <h3 align="center">📚 เครื่องมือ & เทคโนโลยีที่ชอบ 🛠️</h3>
+ <div align="center">
+    <h4>💻 ภาษาเขียนโปรแกรม 💻</h4>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="31" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="31" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%233776AB" height="31" alt="python logo"  />
+    <h4>🖥️ ระบบปฏิบัติการ 🖥️</h4>
+    <img src="https://img.shields.io/badge/windows-80B3FF?style=for-the-badge&logo=windows&logoColor=white&logoSize=auto&labelColor=%2380B3FF" height="31" alt="windows logo"  />    
+    <img width="12" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto" height="31" alt="ubuntu logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto&labelColor=%23557C94" height="31" alt="kali logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&logoSize=auto&labelColor=%231793D1" height="31" alt="arch logo"  />
+    <h4>🧰 เครื่องมือ 🧰</h4>
+    <img width="12" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="31" alt="github logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white&logoSize=auto&labelColor=%236C78AF" height="31" alt="phpMyAdmin logo"  />
+    <img width="12" />
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%234479A1" height="31" alt="mysql logo"  />
+ </div>
+<div align="center">
+<h4>👥 Social 👥</h4>
+   <a href="https://www.facebook.com/tharmmarat.kaeorung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fackbook" width="40" height="40" />
+   </a>
+   <a href="https://www.instagram.com/tharmmaratkaewrung/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40" />
+   </a>
+   <a href="https://t.me/TEWtew404" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40" />
+   </a>
+   <a href="https://www.tiktok.com/@jfvhyfg" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tiktok_icon.svg" alt="tiktok" width="40" height="40" />
+   </a>
+   <a href="https://www.pling.com/u/tew080" target="_blank" rel="noreferrer"><img src="https://www.pling.com/theme/react/assets/img/logo-pling.png" alt="pling" width="40" height="40" />
+   </a>
+</div>
+<hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tew080&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tew080&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=tew080&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tew080&theme=dracula" alt="tew080" />
   </a>
-  <a href="https://www.instagram.com/tharmmaratkaewrung/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-  </a>
-  <a href="https://t.me/TEWtew404">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40"/>
-  </a>
-  <a href="https://www.tiktok.com/@jfvhyfg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Tiktok_icon.svg" width="40"/>
-  </a>
-  <a href="https://www.pling.com/u/tew080">
-    <img src="https://www.pling.com/theme/react/assets/img/logo-pling.png" width="40"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-🔥 <b>“Optimize everything. Waste nothing.”</b> 🔥
-</p>
+</div>
