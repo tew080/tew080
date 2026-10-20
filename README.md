@@ -42,6 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tew080&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=tew080&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tew080&theme=dracula" alt="tew080" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tew080&theme=onedark" alt="tew080" />
   </a>
 </div>
