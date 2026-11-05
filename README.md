@@ -20,11 +20,8 @@
 ## About Me
 
 - 👋 สวัสดีครับ ผมทิว (TEW_Thammarat)
-- 💻 นักพัฒนางานระดับระบบ (Systems Programming)
-- 🔭 พัฒนา **Custom Linux / Android Kernel** และระบบ **IoT ด้วย ESP32**
-- 🛠️ งานหลัก: Linux Kernel, BLE, Embedded Systems, Android Optimization
-- 📫 ติดต่อผม: [Telegram](https://t.me/TEWtew404), [Facebook](https://www.facebook.com/tharmmarat.kaeorung/)
-- ⚡ Fun fact: ใช้ทั้ง Windows, Ubuntu, Arch และ Kali Linux
+- 📫 ติดต่อ: [Telegram](https://t.me/TEWtew404), [Facebook](https://www.facebook.com/tharmmarat.kaeorung/)
+- ⚡ Fun fact: Windows, Ubuntu, Arch, Kali Linux
 
 ---
 
